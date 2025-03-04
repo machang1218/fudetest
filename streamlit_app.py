@@ -39,6 +39,7 @@ with col2:
                 use_container_width=True,
                 type="primary"):
         random_selection()
+        st.balloons()
 
 # 添加垂直间距
 st.write("\n\n")
