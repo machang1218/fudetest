@@ -19,7 +19,7 @@ name_mapping = {
 }
 
 # 页面标题
-st.title("红红火火")
+st.title("开门红！红红火火")
 
 # 添加垂直间距
 st.write("\n\n")
